@@ -20,6 +20,7 @@ Solved Problems
 
 - Travelling Salesman Problem
 - Next Release Problem
+- Quadratic Assignment Problem
 
 How To Use
 ----

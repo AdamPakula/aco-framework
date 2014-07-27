@@ -71,7 +71,7 @@ public class Convert {
 		double[] result = new double[array.length];
 		
 		for (int i = 0; i < array.length; i++) {
-			result[i] = Double.valueOf(array[i]);
+			result[i] = Double.valueOf(array[i].trim());
 		}
 		
 		return result;
@@ -90,7 +90,7 @@ public class Convert {
 		int[] result = new int[array.length];
 		
 		for (int i = 0; i < array.length; i++) {
-			result[i] = Integer.valueOf(array[i]);
+			result[i] = Integer.valueOf(array[i].trim());
 		}
 		
 		return result;
