@@ -50,6 +50,10 @@ ExecutionStats es = ExecutionStats.execute(aco, p);
 es.printStats();
 ```
 
+Extras
+----
+- Export the matrix of pheromone to Dot File ([http://www.graphviz.org]) 
+
 Version
 ----
 
@@ -65,3 +69,4 @@ Acknowledgement
 
 [Apache License, Version 2.0]:  http://www.apache.org/licenses/LICENSE-2.0
 [http://www.goes.uece.br]:  http://www.goes.uece.br
+[http://www.graphviz.org]: http://www.graphviz.org
