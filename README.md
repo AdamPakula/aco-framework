@@ -18,9 +18,9 @@ This framework has implemented the follows algorithms:
 Solved Problems
 -----------
 
-- Travelling Salesman Problem
-- Next Release Problem
-- Quadratic Assignment Problem
+- TSP - Travelling Salesman Problem
+- NRP - Next Release Problem
+- QAP - Quadratic Assignment Problem
 
 How To Use
 ----
