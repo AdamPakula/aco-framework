@@ -52,7 +52,8 @@ es.printStats();
 
 Extras
 ----
-- Export the matrix of pheromone to Dot File ([http://www.graphviz.org]) 
+- Export the matrix of pheromone to Dot File ([http://www.graphviz.org])
+- Support the TSPLIB instance. 
 
 Version
 ----
